@@ -1,3 +1,5 @@
 compose.yaml
 Dockerfile-vm-deplyment
 backup
+localhost.crt
+localhost.key
